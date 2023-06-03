@@ -10,6 +10,10 @@ To run locally the .py files, use the package manager [pip](https://pip.pypa.io/
 pip install -r requirements.txt
 ```
 
+## Author
+
+Lucas Cavalcante da Ponte
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
