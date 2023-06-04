@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Author
 
-Lucas Cavalcante da Ponte
+Lucas Cavalcante
 
 ## License
 
